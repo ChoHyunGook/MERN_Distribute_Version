@@ -1,0 +1,10 @@
+export {default as Home} from '../pages/Home'
+export {default as Login} from './users/Login/main/Login'
+export {default as Join} from './users/Register/main/Join'
+export {default as Customer} from './customer/main/Customer'
+export {default as Product} from './product/main/Product'
+export {default as Table} from './tables/main/Table'
+export {default as FindId} from './users/Find/main/FindId/FindId'
+export {default as FindPw} from './users/Find/main/Find_Pw/FindPwPhone'
+export {default as JoinAgree} from './users/Register/main/JoinAgree'
+
